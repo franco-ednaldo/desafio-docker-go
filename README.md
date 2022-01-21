@@ -1,4 +1,4 @@
 # BAIXAR IMAGEM GO
-docker push francoednaldo/codeeducation:lateast
+docker push francoednaldo/codeeducation:latest
 # RODAR IMAGEM GO
 docker run francoednaldo/codeeducation
